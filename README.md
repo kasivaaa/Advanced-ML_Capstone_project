@@ -253,6 +253,3 @@ Potential limitations include:
 
 ---
 
-# ⚠️ Academic & Health Disclaimer
-
-This project is developed for academic and educational purposes. The predictions produced by the models are not intended to diagnose medical conditions, predict individual health outcomes, or replace professional medical advice.
