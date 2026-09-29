@@ -24,6 +24,18 @@ The project uses the **mcPHASES dataset from PhysioNet**, which contains longitu
 * Apply dimensionality reduction and hyperparameter tuning.
 * Evaluate model performance and analyze prediction errors.
 
+### Dataset
+
+The primary dataset being investigated is the mcPHASES dataset, a longitudinal menstrual-health dataset containing multiple sources of information collected from participants.
+
+The dataset contains information relating to:
+
+Menstrual events Hormonal measurements Sleep Stress Mood Menstrual symptoms Physical activity Heart rate Heart-rate variability Skin temperature Respiratory rate Other physiological measurements
+
+The dataset contains multiple interconnected tables, allowing the project to investigate relationships between menstrual characteristics and physiological or behavioral measurements.
+
+Dataset source: PhysioNet — mcPHASES
+
 ### Models & Techniques
 
 **Regression Models**
